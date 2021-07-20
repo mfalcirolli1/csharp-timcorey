@@ -1,0 +1,11 @@
+﻿1. CTRL + T : Busca refinada. ':' para selecionar linhas | 'f' para selecionar arquivos.
+2. CTRL + . : Em cima de classes, para extrair interfaces.
+3. CTRL + . : Em cima de usings não utilizados, para removê-los do projeto, do documento ou solution.
+4. CTRL + . : Em cima de instanciação de objeto, para simplificar se possível.
+5. No arquivo desejado na aba de navegação, botão direito + Open Containing Folder, para abrir o diretório do local do arquivo.
+6. CTRL + E + D : Para corrigir a identação de todo o documento.
+7. View -> Other Windows -> C# Interactive: Janela para testar alguns códigos em C#.
+8. ALT + Up/Down Arrows: Mover o código para cima ou para baixo.
+9. CTRL + SHIFT + SPACE: Mostra os parâmetros que compõem a chamada do método.
+10. CTRL + J: Em cima de métodos para ver a lista de todos os métodos existentes e alterar se necessário.
+11. ALT + Clicar na linha e arrastar para baixo/cima: Escrever em múltiplas linhas.

@@ -1,0 +1,5 @@
+C:\Users\Falt_\Documentos\AbstractClass\bin\Debug\AbstractClass.dll
+C:\Users\Falt_\Documentos\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Falt_\Documentos\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Falt_\Documentos\AbstractClass\obj\Debug\AbstractClass.dll
+C:\Users\Falt_\Documentos\AbstractClass\obj\Debug\AbstractClass.pdb

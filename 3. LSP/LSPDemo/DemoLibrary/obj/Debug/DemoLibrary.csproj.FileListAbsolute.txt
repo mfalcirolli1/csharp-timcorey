@@ -1,0 +1,6 @@
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb

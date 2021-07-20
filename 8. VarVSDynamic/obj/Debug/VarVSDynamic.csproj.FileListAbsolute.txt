@@ -1,0 +1,7 @@
+C:\Users\Falt_\Documentos\VarVSDynamic\bin\Debug\VarVSDynamic.exe.config
+C:\Users\Falt_\Documentos\VarVSDynamic\bin\Debug\VarVSDynamic.exe
+C:\Users\Falt_\Documentos\VarVSDynamic\bin\Debug\VarVSDynamic.pdb
+C:\Users\Falt_\Documentos\VarVSDynamic\obj\Debug\VarVSDynamic.csprojAssemblyReference.cache
+C:\Users\Falt_\Documentos\VarVSDynamic\obj\Debug\VarVSDynamic.csproj.CoreCompileInputs.cache
+C:\Users\Falt_\Documentos\VarVSDynamic\obj\Debug\VarVSDynamic.exe
+C:\Users\Falt_\Documentos\VarVSDynamic\obj\Debug\VarVSDynamic.pdb

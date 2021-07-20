@@ -1,0 +1,6 @@
+C:\Users\Falt_\Documentos\2. OCP\OCPDemo\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Users\Falt_\Documentos\2. OCP\OCPDemo\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Users\Falt_\Documentos\2. OCP\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.csprojAssemblyReference.cache
+C:\Users\Falt_\Documentos\2. OCP\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Falt_\Documentos\2. OCP\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Users\Falt_\Documentos\2. OCP\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.pdb

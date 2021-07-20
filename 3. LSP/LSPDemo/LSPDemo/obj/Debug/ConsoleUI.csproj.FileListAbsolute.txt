@@ -1,0 +1,10 @@
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\bin\Debug\LSPDemo.exe.config
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\bin\Debug\LSPDemo.exe
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\bin\Debug\LSPDemo.pdb
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\obj\Debug\LSPDemo.exe
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\obj\Debug\LSPDemo.pdb
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\bin\Debug\DemoLibrary.dll
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\bin\Debug\DemoLibrary.pdb
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\3. LSP\LSPDemo\LSPDemo\obj\Debug\ConsoleUI.csproj.CopyComplete

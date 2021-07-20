@@ -1,0 +1,14 @@
+C:\Users\Falt_\Documentos\10. FileSystemDemo\FileSystemDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Falt_\Documentos\10. FileSystemDemo\FileSystemDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Falt_\Documentos\10. FileSystemDemo\FileSystemDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Falt_\Documentos\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Falt_\Documentos\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Falt_\Documentos\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Falt_\Documentos\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\10. FileSystemDemo\FileSystemDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\10. FileSystemDemo\FileSystemDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\10. FileSystemDemo\FileSystemDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Falt_\Documentos\I AM TIM COREY - Youtube Course\10. FileSystemDemo\FileSystemDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
